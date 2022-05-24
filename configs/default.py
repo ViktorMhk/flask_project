@@ -1,3 +1,4 @@
 SECRET_KEY = b'U\xa4\xfa\x1d=\x81TJC\x80\xba\xc2\x08I\xba\xa8\x1a\xf0T\x11\xab\xd2\x96&'
 USERNAME = "admin"
 PASSWORD = "admin"
+DATABASE = "/vagrant/blog.db"
